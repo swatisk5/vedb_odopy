@@ -3,6 +3,7 @@ README.md
 pyproject.toml
 setup.cfg
 setup.py
+src/odopy/headCalibrate.py
 src/odopy/__init__.py
 src/odopy/headCalibrate.py
 src/odopy.egg-info/PKG-INFO
