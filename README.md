@@ -102,5 +102,6 @@ An example usage script is provided in the `test_odo.py` file. You can modify th
 
 - [brianszekely](https://github.com/bszek213)
 - [christiansinnott](https://github.com/csinnott91)
+- [swatikhandual](https://github.com/swatisk5)
 
 Feel free to contribute or report issues by creating pull requests or raising issues.
